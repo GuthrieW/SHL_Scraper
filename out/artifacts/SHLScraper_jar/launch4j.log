@@ -1,0 +1,33 @@
+
+
+Version:	3.10
+CmdLine:	D:\Hard Drive\School Documents\SHLScraper\out\artifacts\SHLScraper_jar\SHLScraper_0.2.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Hard Drive\School Documents\SHLScraper\out\artifacts\SHLScraper_jar\.
+Java min ver:	1.0.1
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_65
+Ignore:		1.8.0_065
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_65
+Ignore:		1.8.0_065
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_111 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "D:\Hard Drive\School Documents\SHLScraper\out\artifacts\SHLScraper_jar\SHLScraper_0.2.exe"
+Args length:	96/32768 chars
+Exit code:	0
